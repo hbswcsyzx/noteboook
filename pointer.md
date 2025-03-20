@@ -160,11 +160,11 @@ typedef int INT; // 定义实质 int 的别名为 INT ;
 
 ```c
 typedef int ARR[20][25];
-ARR array; // 这总不能理解为：定义 int 的别名是 ARR[20][25] 吧
-// 而以上相当于 int array[20][25];
+ARR array; // 总不能理解为：定义 int 的别名是 ARR[20][25] 吧
+// 而以上两步相当于 int array[20][25];
 ```
 所以，现在我的理解是， *typedef* 不是给已知类型起别名，而是一种新的创建变量的方式。<br>
-相当于，设立了一对传送门，在上例中 *ARR* 就是传送门，把 *array* 传送到 *typedef* 的式子中进行定义。<br>
+相当于，设立了一对传送门，在上例中就是 *ARR* ，把 *array* 传送到 *typedef* 的式子中进行定义。<br>
 不过， *ARR* 确实已经是一种新的变量类型了。
 <br><br>又例如：
 
