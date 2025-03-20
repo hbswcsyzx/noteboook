@@ -140,7 +140,7 @@
 
 <br><br>
 
-# 补充 <span style="font-size: 16">( 关于 <span>*typedef*</span> )</span>
+# 补充 <span style="font-size: 16">( <span>*typedef*</span> )</span>
 
 <p style="color: #6a737d">以下仅为个人理解，不一定正确。
     <a
