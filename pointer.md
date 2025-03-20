@@ -1,20 +1,3 @@
-<style>
-    table {
-        width: auto;
-        margin: 0 auto;
-        border: 1px solid #000000;
-        border-collapse: collapse;
-        font-family: "Consolas";
-        font-size: 15px;
-    }
-
-    th,
-    td {
-        border: 1px solid #000000;
-        text-align: center;
-    }
-</style>
-
 # 整理
 
 ## 基础类型
