@@ -135,7 +135,7 @@
         <th>函数型指针</th>
         <td>类比整型指针、字符型指针的一种指针</td>
         <td>typedef void (*func_ptr)(void);</td>
-        <td colspan="2">详见混合部分</td>
+        <td colspan="2">详见补充部分</td>
 </table>
 
 <br><br>
